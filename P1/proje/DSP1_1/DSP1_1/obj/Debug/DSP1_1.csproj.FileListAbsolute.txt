@@ -1,0 +1,7 @@
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\bin\Debug\DSP1_1.exe.config
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\bin\Debug\DSP1_1.exe
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\bin\Debug\DSP1_1.pdb
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\obj\Debug\DSP1_1.csprojAssemblyReference.cache
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\obj\Debug\DSP1_1.csproj.CoreCompileInputs.cache
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\obj\Debug\DSP1_1.exe
+C:\Users\MertAli\source\repos\DSP1_1\DSP1_1\obj\Debug\DSP1_1.pdb

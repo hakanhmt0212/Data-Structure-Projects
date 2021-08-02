@@ -1,0 +1,7 @@
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\bin\Debug\DS20P1_2.exe.config
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\bin\Debug\DS20P1_2.exe
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\bin\Debug\DS20P1_2.pdb
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\obj\Debug\DS20P1_2.csprojAssemblyReference.cache
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\obj\Debug\DS20P1_2.csproj.CoreCompileInputs.cache
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\obj\Debug\DS20P1_2.exe
+C:\Users\MertAli\source\repos\DS20P1_2\DS20P1_2\obj\Debug\DS20P1_2.pdb
